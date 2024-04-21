@@ -41,5 +41,5 @@ Para utilizar este projeto, basta clonar ou baixar o repositório e abrir o arqu
 ## Créditos
 - Criado por [Rebeca Sena dos Santos](thttps://github.com/Rebecasenas).
 
-##Licença
+## Licença
 Este projeto está licenciado sob a Licença MIT.
